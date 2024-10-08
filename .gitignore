@@ -225,7 +225,7 @@ pyrightconfig.json
 .history
 .ionide
 
-### Hide config files
+### Hide config files ###
 # Database user information
 database.ini
 
